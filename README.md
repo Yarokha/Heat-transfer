@@ -1,5 +1,5 @@
 # Heat-transfer
-Solving heat transfer problem by using the generalized Crank-Nicolson finite-difference method with θ = 0 (explicit scheme), θ = 1 (implicit scheme), and θ = 1/2 (Crank-Nicolson scheme).
+Solution heat transfer problem by using the generalized Crank-Nicolson finite-difference method with θ = 0 (explicit scheme), θ = 1 (implicit scheme), and θ = 1/2 (Crank-Nicolson scheme).
 
 Source:
 
